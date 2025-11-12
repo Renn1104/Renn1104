@@ -49,10 +49,16 @@
 
 ### 🎮 Contribution Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-giz.vercel.app/graph?username=Renn1104&theme=tokyonight&custom_title=Rendy's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+</p> -->
+<p align="center">
+  <img src="https://github.com/Renn1104/Renn1104/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Renn1104&theme=tokyonight" width="100%" alt="Profile Details"/>
+</p>
 ---
 
 ### 🔗 Let's Connect

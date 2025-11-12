@@ -50,9 +50,8 @@
 ### 🎮 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-gold.vercel.app/graph?username=Renn1104&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/Renn1104/Renn1104/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 </p>
----
 
 ### 🔗 Let's Connect
 

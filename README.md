@@ -54,9 +54,14 @@
 ### 🎮 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Renn1104/Renn1104/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width:100%; height:auto;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renn1104/Renn1104/main/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renn1104/Renn1104/main/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/Renn1104/Renn1104/main/output/github-contribution-grid-snake.svg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+  </picture>
 </p>
 
+---
 
 ### 🔗 Let's Connect
 

@@ -41,17 +41,27 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renn1104&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renn1104&layout=compact&theme=tokyonight" width="48%" alt="Top Languages"/>
+  <a href="https://github.com/Renn1104">
+    <img src="https://github-readme-stats.vercel.app/api?username=Renn1104&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/Renn1104">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renn1104&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  </a>
 </p>
+
 
 ---
 
 ### 🎮 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Renn1104/Renn1104/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+  <img 
+    src="https://raw.githubusercontent.com/Renn1104/Renn1104/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake Animation"
+    style="max-width: 100%;"
+  />
 </p>
+
 
 ### 🔗 Let's Connect
 

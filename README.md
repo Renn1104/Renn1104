@@ -40,41 +40,22 @@
 
 ### 📈 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Renn1104">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Renn1104&show_icons=true&theme=tokyonight&hide_border=true"
-          alt="GitHub Stats"
-          height="165"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Renn1104">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renn1104&layout=compact&theme=tokyonight&hide_border=true"
-          alt="Top Languages"
-          height="165"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
+  <a href="https://github.com/Renn1104">
+    <img src="https://github-readme-stats.vercel.app/api?username=Renn1104&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="max-width:320px; height:165px;" />
+  </a>
+  <a href="https://github.com/Renn1104">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renn1104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="max-width:320px; height:165px;" />
+  </a>
+</div>
 
 ---
 
 ### 🎮 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Renn1104/Renn1104/main/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
-    style="max-width:100%; height:auto; display:block; margin:0 auto;"
-  />
+  <img src="https://raw.githubusercontent.com/Renn1104/Renn1104/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width:100%; height:auto;" />
 </p>
-
 
 
 ### 🔗 Let's Connect

@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rendy 👋</h1>
 
 <p align="center">
-  🎨 Frontend Web Developer & UI/UX Enthusiast <br>
+  🎨 Frontend Web/Mobile Developer & UI/UX Enthusiast <br>
   💻 Student at University of Jember | Information System <br>
   🚀 Passionate about crafting elegant web interfaces & experiences
 </p>

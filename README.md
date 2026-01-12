@@ -40,21 +40,27 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renn1104&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renn1104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Renn1104">
+    <img src="https://github-readme-stats.vercel.app/api?username=Renn1104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  </a>
+  <a href="https://github.com/Renn1104">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renn1104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Renn1104">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renn1104&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  </a>
+</p>
 
 ---
 
 ### 🎮 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renn1104/Renn1104/main/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renn1104/Renn1104/main/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/Renn1104/Renn1104/main/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renn1104&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---

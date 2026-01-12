@@ -41,12 +41,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Renn1104">
-    <img src="https://github-readme-stats.vercel.app/api?username=Renn1104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  </a>
-  <a href="https://github.com/Renn1104">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renn1104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Renn1104&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renn1104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
 </p>
 
 <p align="center">

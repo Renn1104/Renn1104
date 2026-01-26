@@ -3,15 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="28"/> 
   🎨 Front-End Web Developer & UI/UX Designer Enthusiast 
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="28"/><br>
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="28"/> 
   💻 Student at University of Jember | Information System 
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="28"/><br>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="28"/> 
   🚀 Passionate about crafting elegant web interfaces & experiences 
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="28"/>
 </p>
 
 <p align="center">

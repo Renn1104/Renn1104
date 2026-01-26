@@ -18,9 +18,9 @@
   🚀 Passionate about futuristic web interfaces & experiences
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FD8,50:00F5FF,100:8A2BE2&height=90&section=footer&text=//+LET'S+INNOVATE+TO+CODE!+//&fontColor=ffffff&fontSize=18"/>
-</p>
+</p> -->
 
 ---
 

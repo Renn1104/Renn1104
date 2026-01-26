@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&center=true&vCenter=true&width=1000&color=FF4FD8&background=0D1117&lines=Hi+there%2C+I'm+Rendy+%F0%9F%91%8B;Front-End+Web+Developer+%26+UI%2FUX+Designer;Student+of+Information+System+at+University+of+Jember;Crafting+Cyberpunk+Interfaces;Living+in+the+Synthwave+Future" alt="Cyberpunk Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=950&color=00F5FF&background=0D1117&lines=Hi+there%2C+I'm+Rendy+%F0%9F%91%8B;Front-End+Web+Developer+%26+UI%2FUX+Designer;Student+of+Information+System+at+University+of+Jember;Passionate+about+crafting+elegant+web+interfaces;And+great+user+experiences" alt="Neon Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,21 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28"/>
   🎨 Front-End Web Developer & UI/UX Designer Enthusiast
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="28"/><br>
-
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="28"/>
+ <br>
   💻 Student at University of Jember | Information System
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="28"/><br>
-
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="28"/>
+  <br>
   🚀 Passionate about futuristic web interfaces & experiences
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="28"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FD8,50:00F5FF,100:8A2BE2&height=90&section=footer&text=//+ENTER+THE+SYNTHWAVE+MODE+//&fontColor=ffffff&fontSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FD8,50:00F5FF,100:8A2BE2&height=90&section=footer&text=//+LET'S+INNOVATE+TO+CODE!+//&fontColor=ffffff&fontSize=18"/>
 </p>
 
 ---

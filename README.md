@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="renncover.png" alt="Rendy Cyberpunk Cover" width="100%" />
+  <img src="header_github.png" alt="Rendy Cyberpunk Cover" width="100%" />
 </p>
 
 <h1 align="center">

@@ -4,7 +4,9 @@
 
 <p align="center">
   🎨 Front-End Web Developer & UI/UX Designer Enthusiast 
-  💻 Student at University of Jember | Information System 
+  <br/>
+  💻 Student at University of Jember | Information System
+  <br/>
   🚀 Passionate about crafting elegant web interfaces & experiences 
 </p>
 

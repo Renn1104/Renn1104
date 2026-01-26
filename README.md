@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="renncover.png" alt="Rendy Cyberpunk Cover" width="100%" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=950&color=00F5FF&background=0D1117&lines=Hi+there%2C+I'm+Rendy+%F0%9F%91%8B;Front-End+Web+Developer+%26+UI%2FUX+Designer;Student+of+Information+System+at+University+of+Jember;Passionate+about+crafting+elegant+web+interfaces;And+great+user+experiences" alt="Neon Typing SVG" />
 </h1>

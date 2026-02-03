@@ -15,7 +15,7 @@
  <br>
   💻 Student at University of Jember | Information System
   <br>
-  🚀 Passionate about futuristic web interfaces & experiences
+  🚀 Passionate about futuristic web interfaces & user experiences design
 </p>
 
 <!-- <p align="center">
@@ -100,4 +100,4 @@
 
 ---
 
-<p align="center">✨ Code. Design. Repeat. ✨</p>
+<p align="center">✨ Design. Code and Repeat ✨</p>

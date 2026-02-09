@@ -93,7 +93,7 @@
   <a href="https://linkedin.com/in/rendynyp">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://yourportfolio.site">
+  <a href="https://renn1104.github.io/rennportfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>

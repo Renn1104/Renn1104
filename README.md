@@ -48,7 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" width="52"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="Adobe Photoshop" width="52"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" height="40" alt="Adobe Illustrator" width="52"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/CapCut_logo.svg" height="40" alt="CapCut" width="52"/>
+  <img src="./capcut.png" height="40" alt="CapCut" width="52"/>
+
 
 
   <br/>

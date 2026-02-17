@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  ✨ <b>Welcome to my Github Space</b> ✨
+  ✨ <b>Welcome to my Github Space</b> ✨ 
 </p>
 
 <p align="center">
@@ -17,10 +17,6 @@
   <br>
   🚀 Passionate About Futuristic Web Interfaces & User Experiences Design
 </p>
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4FD8,50:00F5FF,100:8A2BE2&height=90&section=footer&text=//+LET'S+INNOVATE+TO+CODE!+//&fontColor=ffffff&fontSize=18"/>
-</p> -->
 
 ---
 

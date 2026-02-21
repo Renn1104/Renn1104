@@ -45,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="Adobe Photoshop" width="52"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" height="40" alt="Adobe Illustrator" width="52"/>
   <img src="./capcut.png" height="40" alt="CapCut" width="42"/>
-
   <br/>
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" width="52"/>

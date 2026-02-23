@@ -13,7 +13,7 @@
 <p align="center">
   🎨 Front-End Web Developer & UI/UX Designer Enthusiast
  <br>
-  💻 Student at University of Jember | Information System
+  💻 Student at University of Jember | Information Systems
   <br>
   🚀 Passionate About Futuristic Web Interfaces & User Experiences Design
 </p>

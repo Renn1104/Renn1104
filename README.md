@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  ✨ <b>Welcome to my Github Space</b> ✨ 
+  ✨ <b>Welcome to my Github Spaces</b> ✨ 
 </p>
 
 <p align="center">
